@@ -12,7 +12,7 @@ En la parte de backend sé cómo manejar **MongoDB** para proveer alta capacidad
 Del lado de frontend puedo implementar aplicaciones con **React**, utilizar **hooks**, componentes y efectos. También el manejo de rutas e implementación de **Redux** para hacer las aplicaciones más interactivas utilizando estados centralizados. Así como un correcto uso de **HTML** y **CSS**
 
 ### Proyectos
-- ##### [Foods](http://https://github.com/SurimiDiaz/Foods "Foods") 🌭
+- ##### [Foods](https://github.com/SurimiDiaz/Foods "Foods") 🌭
 Creación fullstack de una página web usando **Javascript**, **React**, **Redux**, **NodeJS**, **Express**, **Sequalize**, **PostgreSQL** con funcionalidades CRUD (create, read, update, delete), filtros y ordenamiento de recetas. También se usa un **formulario controlado** con **Javascript**, ademas de que se aplicaron estilos con **CSS** puro.
 
 - ##### [HenryJobs](https://github.com/HenryJobs/HenryJobs "HenryJobs") 🤝
